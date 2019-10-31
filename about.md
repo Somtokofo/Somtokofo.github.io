@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+FINISH HIM! STAND AND FIGHT! GET OVER HERE!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+OUTWORLD KONQUER OVERLORD
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[MERGE_REALMS@MK11.com](mailto:MERGE_REALMS@MK11.com)
