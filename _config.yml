@@ -9,8 +9,7 @@ name: Kofo Kahn
 description: Web Developer from Outworld
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwiM6IGu58blAhXQTd8KHUi2DTAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2e29qKa7jgI&psig=AOvVaw2lZVyHVCpTUF_484vvnxvr&ust=1572621931179626
-
+avatar: ![_config.yml]({{ site.baseurl }}/images/shao-kahn-mk11.jpg)
 #
 # Flags below are optional
 #
